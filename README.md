@@ -6,3 +6,6 @@ Wrote this simple snake game to teach my students the process of writing a progr
 -What defines the snake ie. the movement and lenght, etc.
 -What defines the apple
 -Score tracking
+
+You can run this on this website:
+http://sketchpad.cc/
